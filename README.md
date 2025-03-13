@@ -10,14 +10,6 @@
 
 <img src="preview.png" width="600" />
 
-## ✨ Features
-
-- **Deep Twilight Backgrounds:** Uses a rich, cool-toned dark base (`#161920`, `#1a1b2c`) that is easy on the eyes for late-night coding sessions.
-- **Aurora-Inspired Accents:** Vibrant but soothing highlight colors including glowing teals, soft roses, and luminous ambers.
-- **Crisp Readability:** Soft ice-blue foreground text (`#c8d0ea`) ensures excellent contrast without the harshness of pure white.
-- **Powerline Ready:** Beautifully styled status bar and tabs with built-in powerline separator support.
-- **Custom Filetype & Icon Colors:** Intuitive color-coding for different file types and directories to help you navigate at a glance.
-
 ## 🎨 Installation
 
 ### Using package manager
@@ -50,19 +42,9 @@ dark = "aurora-storm"
 light = "aurora-dawn"
 ```
 
-## ⚙️ Requirements
-
-- [Yazi](https://github.com/sxyazi/yazi) v0.4 or higher.
-- A terminal emulator that supports true color (24-bit).
-- A Nerd Font installed and configured in your terminal (for the icons).
-
 ## 💡 See Also
 
-Prefer a lighter look? Check out the daytime version: **[Aurora Dawn](https://github.com/kshawkat/aurora-dawn)**!
-
-## 🤝 Contributing
-
-Pull requests and suggestions are welcome! If you find a UI element that lacks styling or have ideas to improve the color balance, feel free to open an issue.
+Prefer a darker look? Check out the storm version: **[Aurora Dawn](https://github.com/kshawkat/aurora-dawn)**!
 
 ## 📜 License
 
