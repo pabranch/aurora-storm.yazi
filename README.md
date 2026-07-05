@@ -15,23 +15,22 @@
 ### Using package manager
 
 ```bash
-ya pkg add kshakwat/aurora-storm
+ya pkg add kshawkat/aurora-storm
 ```
 
 ### Manual install
 
 ```bash
 # Linux/macOS
-git clone https://github.com/kshakwat/yazi-theme/aurora-storm.yazi.git ~/.config/yazi/flavors/aurora-storm.yazi
+git clone https://github.com/kshawkat/aurora-storm.yazi.git ~/.config/yazi/flavors/aurora-storm.yazi
 
 # Windows
-git clone https://github.com/kshakwat/yazi-theme/aurora-storm.yazi.git %AppData%\yazi\config\flavors\aurora-storm.yazi
+git clone https://github.com/kshawkat/aurora-storm.yazi.git %AppData%\yazi\config\flavors\aurora-storm.yazi
 ```
 
 ## ⚙️ Usage
 
 Add the these lines to your `theme.toml` configuration file to use it:
-
 
 ```toml
 [flavor]
@@ -44,7 +43,7 @@ light = "aurora-dawn"
 
 ## 💡 See Also
 
-Prefer a darker look? Check out the storm version: **[Aurora Dawn](https://github.com/kshawkat/aurora-dawn)**!
+Prefer a lighter look? Check out the dawn version: **[Aurora Dawn](https://github.com/kshawkat/aurora-dawn)**!
 
 ## 📜 License
 
